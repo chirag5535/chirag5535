@@ -82,6 +82,13 @@
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=chirag5535&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
 
 <br><br>
 
