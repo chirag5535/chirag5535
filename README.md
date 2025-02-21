@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Chirag Sheta</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<p align="center">Experienced backend developer with 3+ years in web development, specializing in NodeJS and full-stack expertise with MEAN/MERN stacks. Proficient in AWS services (EC2, Elastic Beanstalk, RDS, Lambda) and creating reliable, secure, and efficient solutions, from multi-thread scrapers to comprehensive API services, ensuring customer satisfaction and business success.</p>
+<p align="center">Experienced backend developer with 5+ years in web development, specializing in NodeJS and full-stack expertise with MEAN/MERN stacks. Proficient in AWS services (EC2, Elastic Beanstalk, RDS, Lambda) and creating reliable, secure, and efficient solutions, from multi-thread scrapers to comprehensive API services, ensuring customer satisfaction and business success.</p>
 
 
 <div align="center">
